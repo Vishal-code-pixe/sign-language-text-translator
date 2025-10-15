@@ -23,7 +23,7 @@ hands.setOptions({
   minTrackingConfidence: 0.7,
 });
 
-const labels = ["Hello", "Thank You", "Yes", "No", "I Love You"];
+const labels = ["Hello", "Thank You", "Yes", "No", "I Love You","fuck you"];
 let model = null;
 let lastPrediction = "...";
 
